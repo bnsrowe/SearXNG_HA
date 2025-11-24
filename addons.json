@@ -1,0 +1,8 @@
+{
+  "addons": {
+    "searxng": {
+      "name": "Private SearXNG",
+      "slug": "searxng"
+    }
+  }
+}
